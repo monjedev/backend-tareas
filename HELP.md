@@ -24,5 +24,4 @@ The following guides illustrate how to use some features concretely:
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 
 
-token git
-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
+
