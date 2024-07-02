@@ -413,4 +413,3 @@ application.yml
 *.pom
 mvnw
 mvnw.cmd
-HELP.md
