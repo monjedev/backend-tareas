@@ -1,0 +1,8 @@
+##
+Creare un portafolio para demostrar mis conocimientos como desarrollador fullstack utilizando ciertas tecnologias(Spring 6+,Angular 17+,git ,Bootstrap 5+(solo para apariencia y animaciones de la aplicación), Spring Data JPA(PostgreSQL), Spring Security, Spring Web, Lombok, Loggers) y ciertos patrones de arquitectura(MVC,DTO,DAO,DI,etc).
+Para empezar hare un sistema de gestión de tareas que permita las operaciones basicas de CRUD(de extremo a extremo), y operaciones avanzadas como asignación de tareas a usuarios, supervisión de tareas, estado de la tarea, auditoria de tareas,etc.
+Además utilizare click up para gestionar las actividades del projecto; git con github para controlar las versiones de mi codigo en 3 versiones principaes que seran:
+    -version 1.0 CRUD_BASICO_FRONTEND_Y_BACKEND.
+    -version 2.0 OPERACIONES_AVANZADAS_FRONTEND_Y_BACKEND.
+    -version 3.0 SEGURIDAD_FRONTEND_Y_BACKEND.
+Para cada version hare varios commits y me gustaria que fueran muy organizados.
