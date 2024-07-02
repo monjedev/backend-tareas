@@ -405,7 +405,7 @@ classes/
 .idea/
 *.log
 *.stacktrace
-pom.xml
+#pom.xml
 maven-*.xml
 application.properties
 application.yml
